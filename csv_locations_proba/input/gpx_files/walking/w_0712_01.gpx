@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:geotracker="http://ilyabogdanovich.com/gpx/extensions/geotracker" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Aufgezeichnet mit Geo Tracker für Android von Ilya Bogdanovich">
+  <metadata>
+    <name>w_0712_01</name>
+    <author>
+      <name>Aufgezeichnet mit Geo Tracker für Android von Ilya Bogdanovich</name>
+      <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    </author>
+    <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <time>2025-07-12T07:34:36Z</time>
+  </metadata>
+  <wpt lat="47.89967758" lon="19.51454982">
+    <ele>288</ele>
+    <time>2025-07-12T07:36:38Z</time>
+    <name>Stopp für ~2 min</name>
+    <desc>Höhenmeter: 288 m
+Zeit seit Start: 00:02:01
+Distanz seit Start: 11 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <trk>
+    <name>w_0712_01</name>
+    <src>Aufgezeichnet mit Geo Tracker für Android von Ilya Bogdanovich</src>
+    <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <extensions>
+      <geotracker:meta>
+        <geotracker:length>18.13</geotracker:length>
+        <geotracker:duration>1029896</geotracker:duration>
+        <geotracker:creationtime>2025-07-12T07:34:36Z</geotracker:creationtime>
+        <geotracker:activity>0</geotracker:activity>
+      </geotracker:meta>
+    </extensions>
+    <trkseg>
+      <trkpt lat="47.89968185" lon="19.51440725">
+        <ele>305</ele>
+        <time>2025-07-12T07:36:37Z</time>
+      </trkpt>
+      <trkpt lat="47.89967758" lon="19.51454982">
+        <ele>288</ele>
+        <time>2025-07-12T07:36:38Z</time>
+      </trkpt>
+      <trkpt lat="47.89961136" lon="19.51453415">
+        <ele>298</ele>
+        <time>2025-07-12T07:39:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

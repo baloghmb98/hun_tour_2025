@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:geotracker="http://ilyabogdanovich.com/gpx/extensions/geotracker" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Recorded in Geo Tracker for Android from Ilya Bogdanovich">
+  <metadata>
+    <name>w_0712_06</name>
+    <author>
+      <name>Recorded in Geo Tracker for Android from Ilya Bogdanovich</name>
+      <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    </author>
+    <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <time>2025-07-12T13:04:37Z</time>
+  </metadata>
+  <trk>
+    <name>w_0712_06</name>
+    <src>Recorded in Geo Tracker for Android from Ilya Bogdanovich</src>
+    <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <extensions>
+      <geotracker:meta>
+        <geotracker:length>83.17</geotracker:length>
+        <geotracker:duration>184196</geotracker:duration>
+        <geotracker:creationtime>2025-07-12T13:04:37Z</geotracker:creationtime>
+        <geotracker:activity>0</geotracker:activity>
+      </geotracker:meta>
+    </extensions>
+    <trkseg>
+      <trkpt lat="47.46383833" lon="19.02015333">
+        <ele>182.1</ele>
+        <time>2025-07-12T13:04:43Z</time>
+      </trkpt>
+      <trkpt lat="47.46386667" lon="19.020295">
+        <ele>182.1</ele>
+        <time>2025-07-12T13:04:44Z</time>
+      </trkpt>
+      <trkpt lat="47.46397167" lon="19.02049">
+        <ele>182.1</ele>
+        <time>2025-07-12T13:04:57Z</time>
+      </trkpt>
+      <trkpt lat="47.46405667" lon="19.020445">
+        <ele>181.6</ele>
+        <time>2025-07-12T13:05:04Z</time>
+      </trkpt>
+      <trkpt lat="47.46401667" lon="19.02057667">
+        <ele>160.4</ele>
+        <time>2025-07-12T13:05:32Z</time>
+      </trkpt>
+      <trkpt lat="47.46391833" lon="19.02060333">
+        <ele>159.5</ele>
+        <time>2025-07-12T13:05:45Z</time>
+      </trkpt>
+      <trkpt lat="47.46382167" lon="19.02056167">
+        <ele>159</ele>
+        <time>2025-07-12T13:05:54Z</time>
+      </trkpt>
+      <trkpt lat="47.46373333" lon="19.020535">
+        <ele>163.8</ele>
+        <time>2025-07-12T13:06:17Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
