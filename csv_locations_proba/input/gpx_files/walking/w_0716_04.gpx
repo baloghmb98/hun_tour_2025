@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:geotracker="http://ilyabogdanovich.com/gpx/extensions/geotracker" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Recorded in Geo Tracker for Android from Ilya Bogdanovich">
+  <metadata>
+    <name>w_0716_04</name>
+    <author>
+      <name>Recorded in Geo Tracker for Android from Ilya Bogdanovich</name>
+      <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    </author>
+    <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <time>2025-07-16T08:36:55Z</time>
+  </metadata>
+  <wpt lat="46.885495" lon="16.535205">
+    <ele>316.5</ele>
+    <time>2025-07-16T08:37:36Z</time>
+    <name>Stop for ~2 min</name>
+    <desc>Elevation: 317 m
+Time from start: 00:00:40
+Distance from start: 43 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="46.885495" lon="16.535205">
+    <ele>316.5</ele>
+    <time>2025-07-16T08:37:36Z</time>
+    <name>Stop for ~2 min</name>
+    <desc>Elevation: 317 m
+Time from start: 00:00:40
+Distance from start: 43 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="46.885415" lon="16.53520167">
+    <ele>281.9</ele>
+    <time>2025-07-16T08:46:55Z</time>
+    <name>Stop for ~2 min</name>
+    <desc>Elevation: 282 m
+Time from start: 00:09:59
+Distance from start: 184 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="46.885415" lon="16.53520167">
+    <ele>281.9</ele>
+    <time>2025-07-16T08:46:55Z</time>
+    <name>Stop for ~2 min</name>
+    <desc>Elevation: 282 m
+Time from start: 00:09:59
+Distance from start: 184 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <trk>
+    <name>w_0716_04</name>
+    <src>Recorded in Geo Tracker for Android from Ilya Bogdanovich</src>
+    <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <extensions>
+      <geotracker:meta>
+        <geotracker:length>208.25</geotracker:length>
+        <geotracker:duration>656738</geotracker:duration>
+        <geotracker:creationtime>2025-07-16T08:36:55Z</geotracker:creationtime>
+        <geotracker:activity>0</geotracker:activity>
+      </geotracker:meta>
+    </extensions>
+    <trkseg>
+      <trkpt lat="46.88528167" lon="16.53481833">
+        <ele>342.9</ele>
+        <time>2025-07-16T08:37:01Z</time>
+      </trkpt>
+      <trkpt lat="46.885365" lon="16.53491167">
+        <ele>339.5</ele>
+        <time>2025-07-16T08:37:08Z</time>
+      </trkpt>
+      <trkpt lat="46.88544667" lon="16.53498333">
+        <ele>339</ele>
+        <time>2025-07-16T08:37:16Z</time>
+      </trkpt>
+      <trkpt lat="46.88551333" lon="16.53507167">
+        <ele>339.1</ele>
+        <time>2025-07-16T08:37:24Z</time>
+      </trkpt>
+      <trkpt lat="46.885495" lon="16.535205">
+        <ele>316.5</ele>
+        <time>2025-07-16T08:37:36Z</time>
+      </trkpt>
+      <trkpt lat="46.88542167" lon="16.53507">
+        <ele>284.5</ele>
+        <time>2025-07-16T08:40:00Z</time>
+      </trkpt>
+      <trkpt lat="46.88550333" lon="16.53511833">
+        <ele>282.3</ele>
+        <time>2025-07-16T08:42:19Z</time>
+      </trkpt>
+      <trkpt lat="46.88555833" lon="16.53523667">
+        <ele>283.1</ele>
+        <time>2025-07-16T08:42:28Z</time>
+      </trkpt>
+      <trkpt lat="46.88562167" lon="16.53533">
+        <ele>284.8</ele>
+        <time>2025-07-16T08:42:39Z</time>
+      </trkpt>
+      <trkpt lat="46.88565333" lon="16.53545333">
+        <ele>285.8</ele>
+        <time>2025-07-16T08:43:39Z</time>
+      </trkpt>
+      <trkpt lat="46.88568333" lon="16.53558">
+        <ele>283.8</ele>
+        <time>2025-07-16T08:43:49Z</time>
+      </trkpt>
+      <trkpt lat="46.88582333" lon="16.53569167">
+        <ele>311.6</ele>
+        <time>2025-07-16T08:44:13Z</time>
+      </trkpt>
+      <trkpt lat="46.88575333" lon="16.53555833">
+        <ele>299.3</ele>
+        <time>2025-07-16T08:44:18Z</time>
+      </trkpt>
+      <trkpt lat="46.88565833" lon="16.53549167">
+        <ele>290.8</ele>
+        <time>2025-07-16T08:44:26Z</time>
+      </trkpt>
+      <trkpt lat="46.885575" lon="16.53540833">
+        <ele>283.8</ele>
+        <time>2025-07-16T08:44:35Z</time>
+      </trkpt>
+      <trkpt lat="46.8855" lon="16.53532167">
+        <ele>283</ele>
+        <time>2025-07-16T08:44:44Z</time>
+      </trkpt>
+      <trkpt lat="46.88543667" lon="16.535215">
+        <ele>281.8</ele>
+        <time>2025-07-16T08:44:54Z</time>
+      </trkpt>
+      <trkpt lat="46.885415" lon="16.53520167">
+        <ele>281.9</ele>
+        <time>2025-07-16T08:46:55Z</time>
+      </trkpt>
+      <trkpt lat="46.88537833" lon="16.53502833">
+        <ele>287</ele>
+        <time>2025-07-16T08:47:29Z</time>
+      </trkpt>
+      <trkpt lat="46.885315" lon="16.53493167">
+        <ele>285.9</ele>
+        <time>2025-07-16T08:47:39Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
