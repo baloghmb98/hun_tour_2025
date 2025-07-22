@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:geotracker="http://ilyabogdanovich.com/gpx/extensions/geotracker" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Recorded in Geo Tracker for Android from Ilya Bogdanovich">
+  <metadata>
+    <name>w_0721_03</name>
+    <author>
+      <name>Recorded in Geo Tracker for Android from Ilya Bogdanovich</name>
+      <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    </author>
+    <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <time>2025-07-21T12:41:29Z</time>
+  </metadata>
+  <trk>
+    <name>w_0721_03</name>
+    <src>Recorded in Geo Tracker for Android from Ilya Bogdanovich</src>
+    <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <extensions>
+      <geotracker:meta>
+        <geotracker:length>45.82</geotracker:length>
+        <geotracker:duration>91065</geotracker:duration>
+        <geotracker:creationtime>2025-07-21T12:41:29Z</geotracker:creationtime>
+        <geotracker:activity>0</geotracker:activity>
+      </geotracker:meta>
+    </extensions>
+    <trkseg>
+      <trkpt lat="46.18948833" lon="18.26541">
+        <ele>287.5</ele>
+        <time>2025-07-21T12:41:35Z</time>
+      </trkpt>
+      <trkpt lat="46.18961667" lon="18.2654">
+        <ele>287.5</ele>
+        <time>2025-07-21T12:41:39Z</time>
+      </trkpt>
+      <trkpt lat="46.18965667" lon="18.26527667">
+        <ele>287.3</ele>
+        <time>2025-07-21T12:41:45Z</time>
+      </trkpt>
+      <trkpt lat="46.18964" lon="18.26513833">
+        <ele>284.8</ele>
+        <time>2025-07-21T12:41:53Z</time>
+      </trkpt>
+      <trkpt lat="46.18955833" lon="18.26507833">
+        <ele>275.5</ele>
+        <time>2025-07-21T12:42:09Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
